@@ -3,7 +3,7 @@
 
 ## About Me 🚀
 
-Currently pursuing **BE** degree in **Computer Engineering** At Gec Gandhinagar. I’m currently working on Android Development with **Flutter** and **Java** . Also passionate about competitive programming.
+Currently pursuing **BE** degree in **Computer Engineering** At Gec Gandhinagar. I’m currently working on Android Development with **Flutter** and **Java** . Also passionate about competitive programming with C++ ...
 <!--
 **Jaydip614/Jaydip614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
