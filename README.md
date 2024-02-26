@@ -1,4 +1,4 @@
-![my_technology](images/mytech3.png)
+![my_technology](images/mytech2.png)
 <!--
 <h1 align="center">Hi 👋, I'm Jaydip</h1>
 <h3 align="center">A passionate programmer who loves to convert ideas into code 📍</h3>
